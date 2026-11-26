@@ -253,6 +253,14 @@ p {
     color: #ffffff;
 }
 
+.contact-intro {
+    margin-bottom: 24px;
+    padding: 20px;
+    border: 1px solid #d0d0d0;
+    border-radius: 6px;
+    background-color: #ffffff;
+}
+
 /* Contact Form */
 .contact-form {
     background-color: #ffffff;
